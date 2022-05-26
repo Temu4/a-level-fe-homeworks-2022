@@ -9,7 +9,6 @@ const str='sdf23kdgbjk231890njsfjk0-sdfasdjkldfs';
 searchVowels(str);                                  //Повертає - 2
 
 
-
 // Second Task
 
 // Check is inner text valid as a phone number
